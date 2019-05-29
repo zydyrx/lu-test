@@ -1,5 +1,6 @@
 <?php
 header("content-type:text/html;charset=utf-8");
+//卢本伟你好帅啊！
 	//自动转换
 	//输出1，自动把true转换成1，如果是false则转换成0
 	$val1=TRUE;
