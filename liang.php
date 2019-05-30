@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 header("content-type:text/html;charset=utf-8");
 	//常量检查函数
 	const pai=3.14;
@@ -16,7 +16,7 @@ header("content-type:text/html;charset=utf-8");
 	$a=TRUE;
 	if(isset($a))
 	{
-		echo '此变量不为空';
+		echo '此变量不为空啊';
 	}
 	else
 		{
